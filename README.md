@@ -24,7 +24,6 @@
         app.js       // 运行app.js 启动服务器;
                      //打开静态资源 index.html     //演示页面；
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 **支持 node 版本 4.0+**
 
 **直接使用Node.js开发包步骤如下：**
