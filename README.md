@@ -21,6 +21,8 @@
         ├── AipSpeech.js                           //语音合成&语音识别交互类
         ├── index.js                               //入口文件
         └── package.json                           //npm包描述文件
+        app.js       // 运行app.js 启动服务器;
+                     //打开静态资源 index.html     //演示页面；
 
 **支持 node 版本 4.0+**
 
@@ -33,14 +35,6 @@
 3.进入目录，运行npm install安装sdk依赖库
 
 4.把目录当做模块依赖
-
-其中，`version`为版本号，添加完成后，用户就可以在工程中使用百度AI开放平台 Node.js SDK。
-
-**直接使用npm安装依赖：**
-
-```
-npm install baidu-aip-sdk
-```
 
 # 详细使用文档
 
